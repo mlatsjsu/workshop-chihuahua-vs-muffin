@@ -1,4 +1,4 @@
-# == Part 0a: Installation and Setup ==
+# Installation and Setup
 
 ##### Install Python
 
