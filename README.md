@@ -2,7 +2,7 @@
 
 ##### Install Python
 
-https://www.python.org/downloads/release/python-373/
+https://www.python.org/downloads/
 
 ##### Install prerequisite dependencies
 ```
