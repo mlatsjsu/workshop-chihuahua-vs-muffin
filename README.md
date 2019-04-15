@@ -21,6 +21,6 @@ cd workshop-simple-resnet
 jupyter notebook
 ```
 
-Once Jupyter opens, Select the notebook:
+Once your browser window opens, select the notebook:
 
 <img src="resources/select_notebook.png">
