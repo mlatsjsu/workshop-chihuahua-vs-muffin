@@ -1,8 +1,8 @@
-# == Part 0a: Installation and Setup ==
+# Installation and Setup
 
 ##### Install Python
 
-https://www.python.org/downloads/release/python-373/
+https://www.python.org/downloads/
 
 ##### Install prerequisite dependencies
 ```
@@ -21,6 +21,6 @@ cd workshop-simple-resnet
 jupyter notebook
 ```
 
-Once Jupyter opens, Select the notebook:
+Once your browser window opens, select the notebook:
 
 <img src="resources/select_notebook.png">
