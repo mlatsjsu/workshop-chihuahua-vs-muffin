@@ -24,3 +24,7 @@ jupyter notebook
 Once your browser window opens, select the notebook:
 
 <img src="resources/select_notebook.png">
+
+
+#### 5: Download Chihuahua and Muffin Data!  https://drive.google.com/open?id=1MWIHR2zC9ty2B3O2aIEfMHJ3HNbeBkVV
+Unzip the file and drag the data folder into the directory with the ipynb file.
