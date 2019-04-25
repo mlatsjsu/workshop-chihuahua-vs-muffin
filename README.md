@@ -1,19 +1,19 @@
 # Installation and Setup
 
-##### Install Python
+##### 1: Install Python
 
 https://www.python.org/downloads/
 
-##### Install prerequisite dependencies
+##### 2: Install prerequisite dependencies
 ```
 pip install numpy jupyter matplotlib pillow tqdm
 ```
 
-##### Install PyTorch! https://pytorch.org/get-started/locally/
+##### 3: Install PyTorch! https://pytorch.org/get-started/locally/
 <img src="resources/Pytorch_logo.png" width="300">
 <img src="resources/install_pytorch_mac_cpu.png" width="800">
 
-##### Open this interactive Notebook on your computer!
+##### 4: Open this interactive Notebook on your computer!
 
 ```bash
 git clone https://github.com/sjsumlclub/workshop-simple-resnet.git
