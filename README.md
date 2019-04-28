@@ -1,7 +1,7 @@
 # Intro
 <img src="resources/preview.jpg">
 
-This repository is a beginner's workshop for SJSU ML Club. It introduces members to deep learning classification in PyTorch.
+This repository is a beginner's workshop for SJSU ML Club. It introduces members to deep learning classification in PyTorch. [This presentation](https://docs.google.com/presentation/d/1errQMusyaSrnrAcpmkTsY9CNGaJGlebwbI9NI0z-EWI/present) includes accompnying info.
 
 # Installation and Setup
 
