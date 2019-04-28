@@ -1,5 +1,5 @@
 # Intro
-<img src="resources/preview.jpg" width="300">
+<img src="resources/preview.jpg">
 
 This repository is a beginner's workshop for SJSU ML Club. It introduces members to deep learning classification in PyTorch.
 
