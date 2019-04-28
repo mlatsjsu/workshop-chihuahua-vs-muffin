@@ -38,3 +38,6 @@ Once your browser window opens, select the notebook:
 
 # Challenge
 Can you modify the notebook to get 100% accuracy?
+
+# Credits
+This workshop is based on code from the [tutorial by deepsense.ai](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/), and was further modified by Andrew Jong, Jing Zhao, and Jason Do.
