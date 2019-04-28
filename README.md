@@ -15,8 +15,13 @@ pip install numpy jupyter matplotlib pillow tqdm
 ```
 
 ##### 3: Install PyTorch! https://pytorch.org/get-started/locally/
+
+Make sure to run the command appropriate for your system. Navigate to the website and select your options. Most people should choose "Pip" under "Package". If you don't have a GPU, select "None" under "CUDA".
+
 <img src="resources/Pytorch_logo.png" width="300">
 <img src="resources/install_pytorch_mac_cpu.png" width="800">
+
+
 
 ##### 4: Open this interactive Notebook on your computer!
 
