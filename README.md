@@ -7,7 +7,7 @@ This repository is a beginner's workshop for SJSU ML Club. It introduces members
 
 ##### 1: Install Python
 
-https://www.python.org/downloads/
+https://www.python.org/downloads/. Find Python installation help [here](https://docs.google.com/presentation/d/1errQMusyaSrnrAcpmkTsY9CNGaJGlebwbI9NI0z-EWI/present#slide=id.g58ced36789_0_233).
 
 ##### 2: Install prerequisite dependencies
 Copy-paste this into your command line:
