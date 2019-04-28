@@ -16,7 +16,7 @@ pip install numpy jupyter matplotlib pillow tqdm
 ##### 4: Open this interactive Notebook on your computer!
 
 ```bash
-git clone https://github.com/sjsumlclub/workshop-simple-resnet.git
+https://github.com/sjsumlclub/workshop-chihuahua-vs-muffin.git
 cd workshop-simple-resnet
 jupyter notebook
 ```
