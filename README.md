@@ -1,3 +1,8 @@
+# Intro
+<img src="resources/preview.jpg" width="300">
+
+This repository is a beginner's workshop for SJSU ML Club. It introduces members to deep learning classification in PyTorch.
+
 # Installation and Setup
 
 ##### 1: Install Python
@@ -24,3 +29,6 @@ jupyter notebook
 Once your browser window opens, select the notebook:
 
 <img src="resources/select_notebook.png">
+
+# Challenge
+Can you modify the notebook to get 100% accuracy?
