@@ -10,6 +10,7 @@ This repository is a beginner's workshop for SJSU ML Club. It introduces members
 https://www.python.org/downloads/
 
 ##### 2: Install prerequisite dependencies
+Copy-paste this into your command line:
 ```
 pip install numpy jupyter matplotlib pillow tqdm
 ```
@@ -24,7 +25,7 @@ Make sure to run the command appropriate for your system. Navigate to the websit
 
 
 ##### 4: Open this interactive Notebook on your computer!
-
+In command line:
 ```bash
 https://github.com/sjsumlclub/workshop-chihuahua-vs-muffin.git
 cd workshop-simple-resnet
