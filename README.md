@@ -27,7 +27,7 @@ Make sure to run the command appropriate for your system. Navigate to the websit
 ##### 4: Open this interactive Notebook on your computer!
 In command line:
 ```bash
-https://github.com/sjsumlclub/workshop-chihuahua-vs-muffin.git
+git clone https://github.com/sjsumlclub/workshop-chihuahua-vs-muffin.git
 cd workshop-simple-resnet
 jupyter notebook
 ```
