@@ -12,7 +12,7 @@ https://www.python.org/downloads/. Find Python installation help [here](https://
 ##### 2: Install prerequisite dependencies
 Copy-paste this into your command line:
 ```
-pip install numpy jupyter matplotlib pillow tqdm
+pip3 install numpy jupyter matplotlib pillow tqdm
 ```
 
 ##### 3: Install PyTorch! https://pytorch.org/get-started/locally/
