@@ -28,7 +28,7 @@ Make sure to run the command appropriate for your system. Navigate to the websit
 In command line:
 ```bash
 git clone https://github.com/sjsumlclub/workshop-chihuahua-vs-muffin.git
-cd workshop-simple-resnet
+cd workshop-chihuahua-vs-muffin
 jupyter notebook
 ```
 
